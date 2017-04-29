@@ -1,0 +1,6 @@
+{
+  "name": "SendPush",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SendPush.js"
+}

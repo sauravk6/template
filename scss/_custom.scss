@@ -1,0 +1,80 @@
+// Here you can add other styles
+@media only screen and (max-width: 768px) {
+	.imgAnalytics{
+		height: 300px;
+	}
+}
+
+.required{
+        color: #f00;
+}
+
+.second_button{
+    margin-left: 10px;
+}
+
+.push-layout {
+    border: 1px solid #f2f2f2;
+    max-width: 300px;
+    margin: 0px auto 0;
+    padding: 0;
+    position: relative;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    min-height: 81px;
+}
+
+.clearfix:after, .clearfix:before {
+    content: "";
+    display: table;
+}
+
+.push-layout-left {
+    height: 80px;
+    width: 80px;
+    background-color: #f5f5f5;
+    text-align: center;
+    line-height: 80px;
+    overflow: hidden;
+    float: none;
+    position: absolute;
+    display: block;
+}
+
+.push-logo {
+    max-width: 85%;
+    max-height: 85%;
+    margin: 0 auto;
+}
+
+.push-layout-right {
+    padding: 10px 10px 9px 95px;
+    display: inline-block;
+    text-align: left;
+}
+
+.push-title {
+    font: 400 1em 'Lato', sans-serif;
+    width: 200px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.push-text {
+    font: 400 0.8em 'Lato', sans-serif;
+    width: 200px;
+    line-height: 1.2;
+    margin: 0.5em 0;
+    // white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.push-url {
+    margin: 0;
+}
+
+
+
+
+
+

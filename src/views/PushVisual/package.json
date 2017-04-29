@@ -1,0 +1,6 @@
+{
+  "name": "PushVisual",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PushVisual.js"
+}
